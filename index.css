@@ -1,0 +1,31 @@
+.gaya-bebas{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 3rem;
+  color: blue;
+  background-color: darkgrey;
+}
+
+p{
+  color: teal;
+}
+
+#text-id {
+  color: pink;
+}
+
+.gambar{
+  width: 6.5rem;
+  height: 6.25rem;
+}
+
+input {
+  display: block;
+}
+
+input[name=pilihan]  {
+  display: inline;
+}
+
+table tr td {
+  border: 1px solid darkgrey;
+}
