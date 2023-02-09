@@ -1,0 +1,31 @@
+.inline-style {
+  display: inline;
+  background-color : cyan;
+}
+.inline-style {
+  display: inline;
+  background-color : cyan;
+}
+
+.container-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flex-box {
+  width : 5rem;
+  height: 5rem;
+}
+
+.item-1{
+  background-color: aqua;
+}
+.item-2{
+  background-color: burlywood;
+}
+.item-3{
+  background-color: mediumslateblue;
+}
+.item-4{
+  background-color: tomato;
+}
